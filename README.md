@@ -13,6 +13,8 @@
 **[Finance and Economics](#finance-and-economics)**</br>
 **[Politics](#politics)**</br>
 **[Zen Warfare](#zen-warfare)**</br>
+**[Appendix 1 - Massive Amount of Tutorials](#appendix-1---massive-amounts-of-tutorials)**</br>
+
 
 </br>
 
@@ -22,6 +24,7 @@
 **[Study Materials and References](#study-materials-and-references)**</br>
 **[Classroom Format](#classroom-format)**</br>
 **[Product Specific Training](#product-specific-training)**</br>
+
 **[CPE stuff](#cpe-stuff)**</br>
 **[Languages](#languages)**</br>
 **[Finance Training](#finance-training)**</br>
@@ -41,7 +44,6 @@
 ### Study Materials and References
 * *[Awesome Lists](https://github.com/sindresorhus/awesome#contents)*</br>
 * *[Quizlet](https://quizlet.com/latest)*</br>
-
 
 ### Classroom Format
 * *[Coursera](https://www.coursera.org/)*</br>
@@ -217,6 +219,11 @@
 
 ## Finance and Economics
 
+### FIRE
+### Investing
+### Markets
+### Macro Economics
+
 </br>
 
 ## Politics
@@ -225,3 +232,15 @@
 </br>
 
 ## Zen Warfare
+### Health
+#### Nutrition
+##### Recipes
+* *[crustless quiche](https://www.delish.com/cooking/g3994/low-carb-breakfasts/?slide=10)*
+* *[shakshuka](https://www.delish.com/cooking/recipe-ideas/recipes/a52277/shakshuka-with-feta-and-parsley-recipe/)*
+
+
+## Appendix 1 - Massive Amounts of Tutorials
+**[Web App Tutorials](#web-app-tutorials)**</br>
+
+### Web App Tutorials
+* *[Build a Web App from Scratch](https://defn.io/2018/02/25/web-app-from-scratch-01/)*</br>
