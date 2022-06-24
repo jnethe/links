@@ -1,9 +1,6 @@
-# links
+# Links
 
-### TOC
-
-**[]()**</br>
-* *[]()*</br>
+## Table of Contents
 **[Training](#training)**</br>
 **[Reading](#reading)**</br>
 **[Tools](#tools)</br>**
@@ -138,10 +135,13 @@
 
 ### Repositories
 
-* *[Github Integrations](https://github.com/integrations)*</br>
+#### GitHub
+* *[Docs for GitHub](https://docs.github.com/en)*</br>
+* *[GitHub Integrations](https://github.com/integrations)*</br>
 * *[Writing on GitHub](https://docs.github.com/en/get-started/writing-on-github)*</br>
-
-
+* *[GitHub Applications](https://docs.github.com/en/developers/apps/getting-started-with-apps/about-apps)*</br>
+* *[GitHub REST APIs](https://docs.github.com/en/rest)*</br>
+* *[GitHub Marketplace]()*</br>
 
 ### Builds CI/CD
 
@@ -156,9 +156,13 @@
 #### Ansible
 
 ### IaC tools
-
+**[Terraform](#terraform)**</br>
+**[Visual Studio Code](#vscode)**</br>
 
 #### Terraform
+* *[The Tao of Hashicorp](https://www.hashicorp.com/tao-of-hashicorp)*</br>
+* *[Providers for Terraform](https://registry.terraform.io/browse/providers)*</br>
+
 #### VScode
 
 ### The Security in DevSecOps
@@ -166,13 +170,16 @@
 ## Security
 
 ## Python
+**[Python Resources](python-resources)**</br>
 
+### Python Resources
 * *[Awesome Lists: Python!!](https://github.com/vinta/awesome-python)*</br>
+* *[FreeCodeCamp: Best Python Tutorials](https://www.freecodecamp.org/news/best-python-tutorial/)*</br>
+* *[FreeCodeCamp: Python Resources - 2020 Videos, Tutorials, Challenges](https://www.freecodecamp.org/news/python-tutorials-challenges-and-other-resources/)*</br>
 * *[Full Stack Python](https://www.fullstackpython.com/)*</br>
 
-PAckages
-
-
+### Python Tools
+* *[Python Version Control: pyenv](https://github.com/pyenv)*</br>
 
 ## Databases
 ## Other Programming
