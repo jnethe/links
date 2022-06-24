@@ -1,22 +1,23 @@
 # Links
 
 ## Table of Contents
-**[Training](#training)**</br>
+> **[Training](#training)**</br>
 **[Reading](#reading)**</br>
-**[Tools](#tools)</br>**
 **[Platforms](#platforms)**</br>
-**[DevOps / DevSecOps Tools](#devops--devsecops)**</br>
+**[DevOps / DevSecOps](#devops--devsecops)**</br>
 **[Security](#security)**</br>
 **[Python](#python)**</br>
 **[Databases](#databases)**</br>
+**[3rd party tools](#3rd-party-tools)</br>**
 **[Other Programming](#other-programming)**</br>
 **[Finance and Economics](#finance-and-economics)**</br>
 **[Politics](#politics)**</br>
 **[Zen Warfare](#zen-warfare)**</br>
 
+</br>
 
 ## Training
-**[Cyber Ranges and Challenges](#cyber-ranges-and-challenges)**</br>
+> **[Cyber Ranges and Challenges](#cyber-ranges-and-challenges)**</br>
 **[Multimedia Training](#multimedia-training)**</br>
 **[Study Materials and References](#study-materials-and-references)**</br>
 **[Classroom Format](#classroom-format)**</br>
@@ -51,6 +52,7 @@
 ### Product Specific Training
 * *[Microsoft Learn](https://docs.microsoft.com/en-us/learn/)*</br>
 * *[HashiCorp](https://learn.hashicorp.com/search)*</br>
+* *[Chef Tracks](https://learn.chef.io/tracks)*</br>
 * *[DataStax](https://academy.datastax.com/#/dashboard)*</br>
 * *[JFrog Artifactory](https://academy.jfrog.com/)*</br>
 
@@ -62,33 +64,26 @@
 
 ### Finance Training
 
+</br>
 
 ## Reading
-
 * *[Medium](https://medium.com/)*</br>
 * *[NY Times]()*</br>
 * *[Kindle]()*</br>
 * *[O'Reilly Books]()*</br>
-* *[]()*</br>
-* *[]()*</br>
-* *[]()*</br>
 
-
-
-
-
-## Tools
-
+</br>
 
 ## Platforms
-**[AWS](#amazon-web-services)**</br>
+> **[AWS](#amazon-web-services)**</br>
 **[Azure](#azure)**</br>
 **[Kubernetes](#kubernetes)**</br>
 **[Docker](#docker)**</br>
+**[MacOS](#macos)**</br>
 **[Red Hat](#red-hat)**</br>
 **[Windows](#windows)**</br>
 **[OpenShift](#openshift)**</br>
-
+**[IOS](#ios)**</br>
 
 ### Amazon Web Services
 
@@ -105,8 +100,9 @@
 * *[Book at O'Reilly: Kubernetes Up and Running 2nd ed.](https://learning.oreilly.com/library/view/kubernetes-up-and/9781492046523/preface01.html)*</br>
 * *[Study Guide: Certified Kubernetes Administrator ](https://learning.oreilly.com/library/view/certified-kubernetes-administrator/9781098107215/ch01.html)*</br>
 
-
 ### Docker
+
+### MacOS
 
 ### Red Hat
 
@@ -114,18 +110,22 @@
 
 ### OpenShift
 
+### IOS
 
+</br>
 
 ## DevOps / DevSecOps
-
+> **[DevOps References](#devops-references)**</br>
+**[Repositories]()**</br>
+**[IaC - Infrastructure as Code](#iac-infrastructure-as-code)**</br>
+**[Builds, Pipelines, and CI/CD](#builds-pipelines-and-cicd)**</br>
 **[Security for DevSecOps](#the-security-in-devsecops)**</br>
-**[]()**</br>
-**[]()**</br>
-**[Automation]()**</br>
-**[Monitoring]()**</br>
-**[Managing]()**</br>
-**[Remediation]()**</br>
-**[DevOps culture blah blah blah]()**</br>
+**[Automation](#automation)**</br>
+**[Monitoring](#monitoring)**</br>
+**[Managing](#managing)**</br>
+**[Remediation](#remediation)**</br>
+**[Security for DevSecOps](#the-security-in-devsecops)**</br>
+**[DevOps culture blah blah blah](#devops-culture)**</br>
 
 
 ### DevOps References
@@ -134,6 +134,8 @@
 
 
 ### Repositories
+> **[GitHub](#github)**</br>
+
 
 #### GitHub
 * *[Docs for GitHub](https://docs.github.com/en)*</br>
@@ -143,20 +145,8 @@
 * *[GitHub REST APIs](https://docs.github.com/en/rest)*</br>
 * *[GitHub Marketplace]()*</br>
 
-### Builds CI/CD
-
-### Automation
-
-### Monitoring
-
-### Managing
-
-#### SSM - AWS Systems Manager
-
-#### Ansible
-
-### IaC tools
-**[Terraform](#terraform)**</br>
+### IaC (Infrastructure as Code)
+> **[Terraform](#terraform)**</br>
 **[Visual Studio Code](#vscode)**</br>
 
 #### Terraform
@@ -165,12 +155,41 @@
 
 #### VScode
 
+### Builds, Pipelines, and CI/CD
+* *[Concourse CI: CLI commands from Documentation]()*</br>
+* *[Circle CI Documentation](https://circleci.com/docs)*</br>
+
+### Automation
+
+### Monitoring
+
+### Managing
+> **[SSM-AWS Systems Manager](#ssm---aws-systems-manager)**</br>
+**[Ansible](#ansible)**</br>
+**[Chef](#chef)**</br>
+
+#### SSM - AWS Systems Manager
+
+#### Ansible
+
+#### Chef
+
+### Remediation
+
 ### The Security in DevSecOps
+
+### DevOps Culture
+
+</br>
 
 ## Security
 
+</br>
+
 ## Python
-**[Python Resources](python-resources)**</br>
+**[Python Resources](#python-resources)**</br>
+**[Python Tools](#python-tools)**</br>
+
 
 ### Python Resources
 * *[Awesome Lists: Python!!](https://github.com/vinta/awesome-python)*</br>
@@ -181,10 +200,28 @@
 ### Python Tools
 * *[Python Version Control: pyenv](https://github.com/pyenv)*</br>
 
+</br>
+
 ## Databases
+
+</br>
+
+
+## 3rd Party Tools
+
+</br>
+
 ## Other Programming
+
+</br>
+
 ## Finance and Economics
+
+</br>
+
 ## Politics
 ### International
 ### Domestic
+</br>
+
 ## Zen Warfare
