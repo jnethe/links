@@ -211,10 +211,12 @@
 
 
 ### Python Resources
-* *[Awesome Lists: Python!!](https://github.com/vinta/awesome-python)*</br>
-* *[FreeCodeCamp: Best Python Tutorials](https://www.freecodecamp.org/news/best-python-tutorial/)*</br>
-* *[FreeCodeCamp: Python Resources - 2020 Videos, Tutorials, Challenges](https://www.freecodecamp.org/news/python-tutorials-challenges-and-other-resources/)*</br>
-* *[Full Stack Python](https://www.fullstackpython.com/)*</br>
+* *[Awesome Lists: Python!!](https://github.com/vinta/awesome-python)*
+* *[FreeCodeCamp: Best Python Tutorials](https://www.freecodecamp.org/news/best-python-tutorial/)*
+* *[FreeCodeCamp: Python Resources - 2020 Videos, Tutorials, Challenges](https://www.freecodecamp.org/news/python-tutorials-challenges-and-other-resources/)*
+* *[Full Stack Python](https://www.fullstackpython.com/)*
+* *[The Hitchhiker's Guide to Python](https://docs.python-guide.org/writing/structure/)*
+* *[7 Ways to Make Your Python Project Structure More Elegant](https://www.the-analytics.club/python-project-structure-best-practices)*
 
 ### Python Tools
 * *[pyenv: Python Version Control](https://github.com/pyenv)*</br>
