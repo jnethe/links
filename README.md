@@ -1,5 +1,8 @@
 # Links
 
+***"Remember my Son, homepages are weak: save the link that was your dessstinyyyyy..."***
+*- crap Vader never said*
+
 ## Table of Contents
 > **[Training](#training)**</br>
 **[Reading](#reading)**</br>
@@ -14,7 +17,8 @@
 **[Politics](#politics)**</br>
 **[Zen Warfare](#zen-warfare)**</br>
 **[Appendix 1 - Massive Amount of Tutorials](#appendix-1---massive-amounts-of-tutorials)**</br>
-
+**[Appendix 2 - Massive Amount of Organizations](#appendix-2---massive-amount-of-organizations)**</br>
+**[Appendix 3 - Massive Amount of Recipes](#appendix-3---massive-amounts-of-recipes)**</br>
 
 </br>
 
@@ -43,6 +47,7 @@
 
 ### Study Materials and References
 * *[Awesome Lists](https://github.com/sindresorhus/awesome#contents)*</br>
+* *[Awesome Roadmaps](https://github.com/liuchong/awesome-roadmaps)*/<br>
 * *[Quizlet](https://quizlet.com/latest)*</br>
 
 ### Classroom Format
@@ -69,10 +74,14 @@
 </br>
 
 ## Reading
+**[Tech E- Publications](#tech-e-publications)**</br>
+</br>
 * *[Medium](https://medium.com/)*</br>
 * *[NY Times]()*</br>
 * *[Kindle]()*</br>
 * *[O'Reilly Books]()*</br>
+
+### Tech E-publications
 
 </br>
 
@@ -92,6 +101,7 @@
 ### Azure
 
 ### Kubernetes
+* *[Awesome Kubernetes](https://ramitsurana.gitbook.io/awesome-kubernetes/docs)*</br>
 * *[Official Kubernetes Documentation](https://kubernetes.io/docs/home/)*</br>
 * *[kubecutl](https://kubernetes.io/docs/reference/kubectl/)* --- *[kubecutl cheatsheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)*</br>
 * *[Kubernetes the Hard Way: Kelsey Hightower's repo](https://github.com/kelseyhightower/kubernetes-the-hard-way)*</br>
@@ -101,6 +111,12 @@
 * *[O'Reilly: Intermediate Kubernetes in 3 Weeks](https://learning.oreilly.com/live-events/kubernetes-intermediate-in-3-weekswith-interactivity/0636920056954/0636920072469/)*</br>
 * *[Book at O'Reilly: Kubernetes Up and Running 2nd ed.](https://learning.oreilly.com/library/view/kubernetes-up-and/9781492046523/preface01.html)*</br>
 * *[Study Guide: Certified Kubernetes Administrator ](https://learning.oreilly.com/library/view/certified-kubernetes-administrator/9781098107215/ch01.html)*</br>
+
+#### Kubernetes Tools
+* * *[Go Client for Kubernetes](https://github.com/kubernetes/client-go)*</br>
+* * *[K9s](https://github.com/kubernetes/client-go)*</br>
+
+
 
 ### Docker
 
@@ -146,6 +162,7 @@
 * *[GitHub Applications](https://docs.github.com/en/developers/apps/getting-started-with-apps/about-apps)*</br>
 * *[GitHub REST APIs](https://docs.github.com/en/rest)*</br>
 * *[GitHub Marketplace]()*</br>
+* *[How to Write a **proper** commit message](https://cbea.ms/git-commit/)*</br> 
 
 ### IaC (Infrastructure as Code)
 > **[Terraform](#terraform)**</br>
@@ -200,16 +217,31 @@
 * *[Full Stack Python](https://www.fullstackpython.com/)*</br>
 
 ### Python Tools
-* *[Python Version Control: pyenv](https://github.com/pyenv)*</br>
+* *[pyenv: Python Version Control](https://github.com/pyenv)*</br>
+* *[psycopg2: PostgreSQL Database Adapter](https://www.psycopg.org/docs/index.html#)*</br>
 
 </br>
 
 ## Databases
+**[PostgreSQL](#postgresql)</br>
+**[NoSQL](#nosql)</br>
+**[Couchbase](#couchbase)</br>
+**[Redis](#redis)</br>
+**[MySQL](#mysql)</br>
+**[MS-SQL](#ms-sql)</br>
+
+
+### PostgreSQL
+### NoSQL
+### Couchbase
+### Redis
+### MySQL
+### MS-SQL
 
 </br>
 
 
-## 3rd Party Tools
+## 3rd Partty Tools
 
 </br>
 
@@ -234,9 +266,6 @@
 ## Zen Warfare
 ### Health
 #### Nutrition
-##### Recipes
-* *[crustless quiche](https://www.delish.com/cooking/g3994/low-carb-breakfasts/?slide=10)*
-* *[shakshuka](https://www.delish.com/cooking/recipe-ideas/recipes/a52277/shakshuka-with-feta-and-parsley-recipe/)*
 
 
 ## Appendix 1 - Massive Amounts of Tutorials
@@ -244,3 +273,12 @@
 
 ### Web App Tutorials
 * *[Build a Web App from Scratch](https://defn.io/2018/02/25/web-app-from-scratch-01/)*</br>
+
+
+## Appendix 2 - Massive Amounts of Organizations
+* *[CNCF - Cloud Native Computing Foundation](https://github.com/cncf/)*
+
+
+## Appendix 3 - Massive Amounts of Recipes
+* *[crustless quiche](https://www.delish.com/cooking/g3994/low-carb-breakfasts/?slide=10)*
+* *[shakshuka](https://www.delish.com/cooking/recipe-ideas/recipes/a52277/shakshuka-with-feta-and-parsley-recipe/)*
