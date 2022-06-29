@@ -103,7 +103,7 @@
 ### Kubernetes
 * *[Awesome Kubernetes](https://ramitsurana.gitbook.io/awesome-kubernetes/docs)*</br>
 * *[Official Kubernetes Documentation](https://kubernetes.io/docs/home/)*</br>
-* *[kubecutl](https://kubernetes.io/docs/reference/kubectl/)* --- *[kubecutl cheatsheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)*</br>
+* *[kubecutl](https://kubernetes.io/docs/reference/kubectl/)* |-o-| *[kubecutl cheatsheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)*</br>
 * *[Kubernetes the Hard Way: Kelsey Hightower's repo](https://github.com/kelseyhightower/kubernetes-the-hard-way)*</br>
 * *[Linux Academy's version of 'Kubernetes the Hard Way'](https://learn.acloud.guru/course/8832e727-9101-4785-8ea6-e8057ad62f69/dashboard)*</br>
 * *[Terraform version of 'Kubernetes the Hard Way'](https://www.hashicorp.com/resources/kubernetes-the-hard-way-using-terraform)*</br>
@@ -219,7 +219,8 @@
 * *[7 Ways to Make Your Python Project Structure More Elegant](https://www.the-analytics.club/python-project-structure-best-practices)*
 
 ### Python Tools
-* *[pyenv: Python Version Control](https://github.com/pyenv)*</br>
+* *[pyenv: Python Version Control](https://github.com/pyenv)* |-o-| *[official docs: basic usage](https://python-poetry.org/docs/master/basic-usage/)*</br>
+
 * *[psycopg2: PostgreSQL Database Adapter](https://www.psycopg.org/docs/index.html#)*</br>
 
 </br>
