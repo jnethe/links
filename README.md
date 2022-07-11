@@ -12,10 +12,10 @@
 **[Python](#python)**</br>
 **[Databases](#databases)**</br>
 **[3rd party tools](#3rd-party-tools)</br>**
-**[Other Programming](#other-programming)**</br>
+**[Other Programming](#other-programming)**</br></br>
 **[Finance and Economics](#finance-and-economics)**</br>
 **[Politics](#politics)**</br>
-**[Zen Warfare](#zen-warfare)**</br>
+**[Zen Warfare](#zen-warfare)**</br></br>
 **[Appendix 1 - Massive Amount of Tutorials](#appendix-1---massive-amounts-of-tutorials)**</br>
 **[Appendix 2 - Massive Amount of Organizations](#appendix-2---massive-amount-of-organizations)**</br>
 **[Appendix 3 - Massive Amount of Recipes](#appendix-3---massive-amounts-of-recipes)**</br>
@@ -28,7 +28,6 @@
 **[Study Materials and References](#study-materials-and-references)**</br>
 **[Classroom Format](#classroom-format)**</br>
 **[Product Specific Training](#product-specific-training)**</br>
-
 **[CPE stuff](#cpe-stuff)**</br>
 **[Languages](#languages)**</br>
 **[Finance Training](#finance-training)**</br>
@@ -39,6 +38,7 @@
 * *[CheckIO - Python Coding Challenges](https://py.checkio.org/)*</br>
 * *[CMD CTRL Net](https://cmdnctrl.net/welcome)*</br>
 * *[CryptoPals](https://cryptopals.com/)*</br>
+* *[HAckerRank](https://www.hackerrank.com/)*</br>
 
 ### Multimedia Training
 * *[O'Reilly](https://learning.oreilly.com/home/)*</br>
@@ -113,8 +113,8 @@
 * *[Study Guide: Certified Kubernetes Administrator ](https://learning.oreilly.com/library/view/certified-kubernetes-administrator/9781098107215/ch01.html)*</br>
 
 #### Kubernetes Tools
-* * *[Go Client for Kubernetes](https://github.com/kubernetes/client-go)*</br>
-* * *[K9s](https://github.com/kubernetes/client-go)*</br>
+* *[Go Client for Kubernetes](https://github.com/kubernetes/client-go)*</br>
+* *[K9s](https://github.com/kubernetes/client-go)*</br>
 
 
 
