@@ -101,22 +101,29 @@
 ### Azure
 
 ### Kubernetes
-* *[Awesome Kubernetes](https://ramitsurana.gitbook.io/awesome-kubernetes/docs)*</br>
-* *[Official Kubernetes Documentation](https://kubernetes.io/docs/home/)*</br>
-* *[kubecutl](https://kubernetes.io/docs/reference/kubectl/)* |-o-| *[kubecutl cheatsheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)*</br>
-* *[Kubernetes the Hard Way: Kelsey Hightower's repo](https://github.com/kelseyhightower/kubernetes-the-hard-way)*</br>
-* *[Linux Academy's version of 'Kubernetes the Hard Way'](https://learn.acloud.guru/course/8832e727-9101-4785-8ea6-e8057ad62f69/dashboard)*</br>
-* *[Terraform version of 'Kubernetes the Hard Way'](https://www.hashicorp.com/resources/kubernetes-the-hard-way-using-terraform)*</br>
+
+#### Official Kubernetes / CNCF resources
+* *[Official Documentation for Kubernetes](https://kubernetes.io/docs/home/)*</br>
+* *[Glossary - comprehensive & filtered by section](https://kubernetes.io/docs/reference/glossary/?fundamental=true)*</br>
+* *[kubecutl](https://kubernetes.io/docs/reference/kubectl/)*</br>
+* *[kubecutl cheatsheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)*</br>
+
+#### 3rd Party Kubernetes Resources and Training
 * *[O'Reilly: Kubernetes Fundamentals in 3 Weeks](https://learning.oreilly.com/live-events/kubernetes-fundamentals-in-3-weeks/0636920056950/0636920056949/)*</br>
 * *[O'Reilly: Intermediate Kubernetes in 3 Weeks](https://learning.oreilly.com/live-events/kubernetes-intermediate-in-3-weekswith-interactivity/0636920056954/0636920072469/)*</br>
+* *[Kubernetes the Hard Way: Kelsey Hightower's repo](https://github.com/kelseyhightower/kubernetes-the-hard-way)*</br>
+* *[Awesome Kubernetes](https://ramitsurana.gitbook.io/awesome-kubernetes/docs)*</br>
+* *[Linux Academy's version of 'Kubernetes the Hard Way'](https://learn.acloud.guru/course/8832e727-9101-4785-8ea6-e8057ad62f69/dashboard)*</br>
+* *[Terraform version of 'Kubernetes the Hard Way'](https://www.hashicorp.com/resources/kubernetes-the-hard-way-using-terraform)*</br>
 * *[Book at O'Reilly: Kubernetes Up and Running 2nd ed.](https://learning.oreilly.com/library/view/kubernetes-up-and/9781492046523/preface01.html)*</br>
-* *[Study Guide: Certified Kubernetes Administrator ](https://learning.oreilly.com/library/view/certified-kubernetes-administrator/9781098107215/ch01.html)*</br>
+* *[Study Guide: Certified Kubernetes Administrator](https://learning.oreilly.com/library/view/certified-kubernetes-administrator/9781098107215/ch01.html)*</br>
+
+#### Kubernetes Components
+* *[Raft Consensus Algorithm](https://raft.github.io/)*</br>
 
 #### Kubernetes Tools
-* *[Go Client for Kubernetes](https://github.com/kubernetes/client-go)*</br>
 * *[K9s](https://github.com/kubernetes/client-go)*</br>
-
-
+* *[Go Client for Kubernetes](https://github.com/kubernetes/client-go)*</br>
 
 ### Docker
 
