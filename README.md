@@ -1,7 +1,5 @@
 # Links
 
-***"Remember my Son, homepages are weak: save the link that was your dessstinyyyyy..."***
-*- crap Vader never said*
 
 ## Table of Contents
 > **[Training](#training)**</br>
