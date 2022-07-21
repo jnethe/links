@@ -38,6 +38,7 @@
 * *[CryptoPals](https://cryptopals.com/)*</br>
 * *[HackerRank](https://www.hackerrank.com/)*</br>
 * *[Advent of Code](https://adventofcode.com/)*</br>
+* *[BlackHills Infosec Backdoors and Breaches](https://www.blackhillsinfosec.com/projects/backdoorsandbreaches/)*</br>
 
 
 ### Multimedia Training
