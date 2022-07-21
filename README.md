@@ -36,7 +36,9 @@
 * *[CheckIO - Python Coding Challenges](https://py.checkio.org/)*</br>
 * *[CMD CTRL Net](https://cmdnctrl.net/welcome)*</br>
 * *[CryptoPals](https://cryptopals.com/)*</br>
-* *[HAckerRank](https://www.hackerrank.com/)*</br>
+* *[HackerRank](https://www.hackerrank.com/)*</br>
+* *[Advent of Code](https://adventofcode.com/)*</br>
+
 
 ### Multimedia Training
 * *[O'Reilly](https://learning.oreilly.com/home/)*</br>
@@ -103,6 +105,7 @@
 #### Official Kubernetes / CNCF resources
 * *[Official Documentation for Kubernetes](https://kubernetes.io/docs/home/)*</br>
 * *[Glossary - comprehensive & filtered by section](https://kubernetes.io/docs/reference/glossary/?fundamental=true)*</br>
+* *[CNCF Cloud Native Interactive Landscape](https://landscape.cncf.io/?category=application-definition-image-build&grouping=category)*</br>
 * *[kubecutl](https://kubernetes.io/docs/reference/kubectl/)*</br>
 * *[kubecutl cheatsheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)*</br>
 
